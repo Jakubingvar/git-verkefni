@@ -1,4 +1,49 @@
 ﻿Git spurningar og svör
 
 1.spurning
-	cd: fer í ákveðna skrá
+cd - notað til að breyta um möppu sem þú ert að vinna í
+cd ~ - fer í aðalmöppu
+ls - sýnir hvað er í möppunni
+pwd - byrtir slóðina á möppuni sem þú ert í
+mkdir - býr til möppu
+
+2.spurning
+git clone - klónar verkefnið til þín
+git log - sýnir allar útgágur á verkefninu
+git status - sýnir hverju ert að vinna á
+gitt diff - sýnir breytingar sem þú hefur gert
+git checkout - leyfir að skipta um greinar(branches)
+
+3.spurning
+git diff - sýnir breytingar sem hafa verið gerðar
+git diff --staged - sýnir muninn á því skjali sem er stageað
+git diff commit1 commit2 - sýnir múninn á milli báða skjalana
+
+4.spurning
+version control - er stjórnun breytinga á skjölum 
+
+5.spurning
+Örugglega branches láta það vera erfitt að skemma verkefni 
+en hópavinna er líka talinn þægileg samkvæmt öðrum.
+
+6.spurning
+Fer eftir. ef það er ekki mikilvægt þá eftir nokkrar breytingar 
+annars allann tímann
+
+7.spurning
+working directory - Er vinnuskrá
+staging area - Svæðið þar sem skjölum hefur verið breytt áður en þau hafa verið commituð
+repository -  Er eymsla
+
+8.spurning
+Það er sniðugt að nota greinar(branches) þegar þú vilt ekki að þín skrá 
+sé að breytast eitthvað þannig þú gerir branch til að koma í veg fyrir 
+að breyta aðalskránni og síðan breyturu í branchinnu hverju sem þú vilt
+breyta og ef þú ákveður að þú viljir hafa breytingarnar í aðalskránni
+þá geturu bætt þær inn.
+
+9.spurning
+Linus Torvalds.
+
+10.spurning
+GIT er notað  aðallega fyrir útgáfustýringu
