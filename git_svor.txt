@@ -25,3 +25,7 @@ version control - er stjórnun breytinga á skjölum
 5.spurning
 Örugglega branches láta það vera erfitt að skemma verkefni 
 en hópavinna er líka talinn þægileg samkvæmt öðrum.
+
+6.spurning
+Fer eftir. ef það er ekki mikilvægt þá eftir nokkrar breytingar 
+annars allann tímann
