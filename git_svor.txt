@@ -47,3 +47,5 @@ Linus Torvalds.
 
 10.spurning
 GIT er notað  aðallega fyrir útgáfustýringu
+
+Jakub Ingvar Pitak
