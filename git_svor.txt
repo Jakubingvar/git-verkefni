@@ -1,4 +1,4 @@
 ﻿Git spurningar og svör
 
 1.spurning
-	cd: fer í ákveðna skrás
+	cd: fer í ákveðna skrá
