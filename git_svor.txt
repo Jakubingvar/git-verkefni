@@ -21,3 +21,7 @@ git diff commit1 commit2 - sýnir múninn á milli báða skjalana
 
 4.spurning
 version control - er stjórnun breytinga á skjölum
+
+5.spurning
+Örugglega branches láta það vera erfitt að skemma verkefni 
+en hópavinna er líka talinn þægileg samkvæmt öðrum.
