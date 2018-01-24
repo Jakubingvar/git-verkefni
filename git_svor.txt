@@ -29,3 +29,8 @@ en hópavinna er líka talinn þægileg samkvæmt öðrum.
 6.spurning
 Fer eftir. ef það er ekki mikilvægt þá eftir nokkrar breytingar 
 annars allann tímann
+
+7.spurning
+working directory - Er vinnuskrá
+staging area - Svæðið þar sem skjölum hefur verið breytt áður en þau hafa verið commituð
+repository -  Er geymsla
