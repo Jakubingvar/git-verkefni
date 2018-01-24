@@ -44,3 +44,6 @@ breyta og ef þú ákveður að þú viljir hafa breytingarnar í aðalskránni
 
 9.spurning
 Linus Torvalds.
+
+10.spurning
+GIT er notað  aðallega fyrir útgáfustýringu
