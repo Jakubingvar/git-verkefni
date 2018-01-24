@@ -6,3 +6,10 @@ cd ~ - fer í aðalmöppu
 ls - sýnir hvað er í möppunni
 pwd - byrtir slóðina á möppuni sem þú ert í
 mkdir - býr til möppu
+
+2.spurning
+git clone - klónar verkefnið til þín
+git log - sýnir allar útgágur á verkefninu
+git status - sýnir hverju ert að vinna á
+gitt diff - sýnir breytingar sem þú hefur gert
+git checkout - leyfir að skipta um greinar(branches)
