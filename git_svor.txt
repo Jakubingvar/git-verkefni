@@ -18,3 +18,6 @@ git checkout - leyfir að skipta um greinar(branches)
 git diff - sýnir breytingar sem hafa verið gerðar
 git diff --staged - sýnir muninn á því skjali sem er stageað
 git diff commit1 commit2 - sýnir múninn á milli báða skjalana
+
+4.spurning
+version control - er stjórnun breytinga á skjölum
