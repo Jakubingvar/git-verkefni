@@ -13,3 +13,8 @@ git log - sýnir allar útgágur á verkefninu
 git status - sýnir hverju ert að vinna á
 gitt diff - sýnir breytingar sem þú hefur gert
 git checkout - leyfir að skipta um greinar(branches)
+
+3.spurning
+git diff - sýnir breytingar sem hafa verið gerðar
+git diff --staged - sýnir muninn á því skjali sem er stageað
+git diff commit1 commit2 - sýnir múninn á milli báða skjalana
