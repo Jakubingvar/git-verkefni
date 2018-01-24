@@ -1,1 +1,8 @@
 ﻿Git spurningar og svör
+
+1.spurning
+cd - notað til að breyta um möppu sem þú ert að vinna í
+cd ~ - fer í aðalmöppu
+ls - sýnir hvað er í möppunni
+pwd - byrtir slóðina á möppuni sem þú ert í
+mkdir - býr til möppu
