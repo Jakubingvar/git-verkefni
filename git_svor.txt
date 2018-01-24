@@ -35,3 +35,9 @@ working directory - Er vinnuskrá
 staging area - Svæðið þar sem skjölum hefur verið breytt áður en þau hafa verið commituð
 repository -  Er geymsla
 
+8.spurning
+Það er sniðugt að nota greinar(branches) þegar þú vilt ekki að þín skrá 
+sé að breytast eitthvað þannig þú gerir branch til að koma í veg fyrir 
+að breyta aðalskránni og síðan breyturu í branchinnu hverju sem þú vilt
+breyta og ef þú ákveður að þú viljir hafa breytingarnar í aðalskránni
+þá geturu bætt þær inn.
