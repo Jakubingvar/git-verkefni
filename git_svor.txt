@@ -33,7 +33,7 @@ annars allann tímann
 7.spurning
 working directory - Er vinnuskrá
 staging area - Svæðið þar sem skjölum hefur verið breytt áður en þau hafa verið commituð
-repository -  Er eymsla
+repository -  Er geymsla
 
 8.spurning
 Það er sniðugt að nota greinar(branches) þegar þú vilt ekki að þín skrá 
